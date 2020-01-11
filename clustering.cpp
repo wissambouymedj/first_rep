@@ -3,6 +3,7 @@
 #include <random>
 #include <iostream>
 #include <utility> 
+#include <math.h>
 using namespace std; 
 namespace plt = matplotlibcpp;
 
